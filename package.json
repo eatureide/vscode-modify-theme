@@ -34,9 +34,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Rouge 2",
+				"label": "Rouge 2 Deep",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge2/rouge2.json"
+				"path": "./out/rouge2deep/rouge2.json"
 			},
 			{
 				"label": "Rouge",
@@ -44,9 +44,9 @@
 				"path": "./out/rouge/rouge-theme.json"
 			},
 			{
-				"label": "Rouge No Italics",
+				"label": "Rouge 2 Light",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge-no-italics/rouge-no-italics.json"
+				"path": "./out/rouge2light/rouge2.json"
 			}
 		]
 	},
