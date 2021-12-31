@@ -39,9 +39,9 @@
 				"path": "./out/rouge2deep/rouge2.json"
 			},
 			{
-				"label": "Rouge",
+				"label": "Rouge 2 Super",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge/rouge-theme.json"
+				"path": "./out/rouge2super/rouge2.json"
 			},
 			{
 				"label": "Rouge 2 Light",
