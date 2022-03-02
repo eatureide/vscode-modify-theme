@@ -100,7 +100,7 @@
     "list.filterMatchBackground": "#5D5D6B7f",
     "tree.indentGuidesStroke": "#44466C",
     "list.highlightForeground": "#D7A1A5",
-    "widget.shadow": "#0E0E1A",
+    "widget.shadow": "#0e0e1a00",
     "editorWidget.background": "#151627",
     "editorWidget.border": "#C6797E",
     "editorWidget.resizeBorder": "#C6797E",
