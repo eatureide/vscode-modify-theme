@@ -34,19 +34,19 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Rouge 2 Deep",
+				"label": "Rouge 2",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge2deep/rouge2.json"
+				"path": "./out/rouge2/rouge2.json"
 			},
 			{
-				"label": "Rouge 2 Super",
+				"label": "Rouge",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge2super/rouge2.json"
+				"path": "./out/rouge/rouge-theme.json"
 			},
 			{
-				"label": "Rouge 2 Light",
+				"label": "Rouge No Italics",
 				"uiTheme": "vs-dark",
-				"path": "./out/rouge2light/rouge2.json"
+				"path": "./out/rouge-no-italics/rouge-no-italics.json"
 			}
 		]
 	},
@@ -74,7 +74,10 @@
 		"id": "666c89a4-85ec-483b-8cdf-ec3d4764b87c",
 		"publisherId": "fe809442-43a4-4224-ba8a-55deab078c8a",
 		"publisherDisplayName": "josef",
+		"targetPlatform": "undefined",
+		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1640232072501
+		"preRelease": false,
+		"installedTimestamp": 1650165210639
 	}
 }
