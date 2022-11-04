@@ -39,6 +39,11 @@
 				"path": "./out/rouge2/rouge2.json"
 			},
 			{
+				"label": "Rouge 3",
+				"uiTheme": "vs-dark",
+				"path": "./out/rouge3/rouge3.json"
+			},
+			{
 				"label": "Rouge",
 				"uiTheme": "vs-dark",
 				"path": "./out/rouge/rouge-theme.json"
